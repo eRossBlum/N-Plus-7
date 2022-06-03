@@ -60,7 +60,6 @@ def main():
         for key, val in replacement_dict.items():
             line_untokenized = replace_keep_case(key, val, line_untokenized)
         edited_version.append(line_untokenized)
-        print(replacement_dict)
         noun_list_in_line = list()
         replacement_dict = dict()
 
@@ -69,4 +68,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    
