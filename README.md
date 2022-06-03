@@ -5,6 +5,8 @@ To run:
 
 • Download the data here https://github.com/ssvivian/WebstersDictionary, unzip, and place in the same directory as plus_seven.py.
 
+• Make sure you have NLTK installed in the environment.
+
 • Put input text in a plaintext file in the same directory as plus_seven.py
 
 • run:
